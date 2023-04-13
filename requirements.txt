@@ -1,4 +1,5 @@
 streamlit==1.21.0
+cairocffi==1.5.0
 absl-py==1.4.0
 altair==4.2.2
 flatbuffers==23.3.3
